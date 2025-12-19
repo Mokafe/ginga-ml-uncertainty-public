@@ -26,8 +26,9 @@
 
 ```md
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/<USER>/<REPO>/blob/main/notebooks/01_galaxy_haze_public_colab.ipynb
+https://colab.research.google.com/github/Mokafe/ginga-ml-uncertainty-public/blob/main/notebooks/01_galaxy_haze_public_colab.ipynb
 )
+
 ```
 
 ---
