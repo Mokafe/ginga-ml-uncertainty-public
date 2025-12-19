@@ -24,12 +24,10 @@
 ## いちばん早い入口（Colab）
 リポジトリを作ったら、READMEにこのバッジを置くとワンクリックで開けます（`<USER>/<REPO>` は差し替え）：
 
-```md
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Mokafe/ginga-ml-uncertainty-public/blob/main/notebooks/01_galaxy_haze_public_colab.ipynb
-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mokafe/ginga-ml-uncertainty-public/blob/main/notebooks/01_galaxy_haze_public_colab.ipynb)
 
-```
+↑ ここからそのまま開けます。
+
 
 ---
 
